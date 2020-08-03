@@ -1,7 +1,14 @@
 # Note Taker
 
+## Heroku URL: 
+https://powerful-chamber-82509.herokuapp.com/notes
+## Github Repo: 
+https://github.com/asaldana1108/note-taker
+
 ## Description 
 This app allows users to write and save notes. Express js was used to write and retrieve data from a JSON file on the backend. 
+
+![Alt text](note-taker screenshot.png)
 
 ## Badges
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
