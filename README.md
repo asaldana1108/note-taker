@@ -8,7 +8,7 @@ https://github.com/asaldana1108/note-taker
 ## Description 
 This app allows users to write and save notes. Express js was used to write and retrieve data from a JSON file on the backend. 
 
-![Alt text](note-taker screenshot.png)
+<img width="1106" alt="note-taker screenshot" src="https://user-images.githubusercontent.com/65061372/89143781-5080cc80-d511-11ea-8dc2-95a0dc972a84.png">
 
 ## Badges
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
